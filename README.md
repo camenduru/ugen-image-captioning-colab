@@ -12,7 +12,7 @@
 https://github.com/unum-cloud/uform
 
 ### 🖼 Output
-
+![Screenshot 2023-12-31 044427](https://github.com/camenduru/ugen-image-captioning-colab/assets/54370274/9ea37c5b-cabf-49e1-9820-338a75daee43)
 
 ### 🏢 Sponsor
 https://modelslab.com
